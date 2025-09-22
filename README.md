@@ -42,3 +42,7 @@ Select files to compress: Click the "Choose" button to browse and select multipl
 Select the destination folder: Click the "Choose" button to specify the folder where you want the compressed file to be saved.
 
 Compress: Once you've selected the files and destination folder, click the "Compress" button to start the compression process.
+
+App out put
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/901e0a9f-260f-4962-8f89-949acc523d5c" />
+
